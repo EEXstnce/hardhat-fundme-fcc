@@ -8,3 +8,8 @@ coverage
 .*
 README.md
 coverage.json
+
+/*
+!/src
+/src/*
+!/src/app
